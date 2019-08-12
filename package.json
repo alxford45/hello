@@ -1,0 +1,32 @@
+{
+  "name": "ts-env",
+  "version": "1.0.0",
+  "description": "flexible starting typescript env",
+  "scripts": {
+    "dev": "webpack-dev-server --config config/webpack.config.ts"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/alxford45/ts-env.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/alxford45/ts-env/issues"
+  },
+  "homepage": "https://github.com/alxford45/ts-env#readme",
+  "devDependencies": {
+    "@types/html-webpack-plugin": "^3.2.0",
+    "@types/node": "^12.6.2",
+    "@types/webpack": "^4.4.34",
+    "@types/webpack-dev-server": "^3.1.7",
+    "html-webpack-plugin": "^3.2.0",
+    "ts-loader": "^6.0.4",
+    "ts-node": "^8.3.0",
+    "typescript": "^3.5.3",
+    "webpack": "^4.35.3",
+    "webpack-cli": "^3.3.5",
+    "webpack-dev-server": "^3.7.2"
+  }
+}
