@@ -36,7 +36,7 @@ export type Mode = "development" | "production" | "none";
 export type Configuration = IConfiguration & {
   name: string;
   mode: Mode;
-  entry: string;
+  entry?: string;
   devServer: DevServer;
   module: Module;
   plugins: Tapable.Plugin[];

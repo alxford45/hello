@@ -1,9 +1,9 @@
 import { Configuration } from "./config.types";
 import {
-  ENTRY,
+  //ENTRY,
   MODE,
   NAME,
-  TSLoaderRules,
+  tsLoaderRules,
   devServer,
   htmlWebpackPlugin
 } from "./config";
@@ -11,10 +11,10 @@ import {
 const config: Configuration = {
   name: NAME,
   mode: MODE,
-  entry: ENTRY,
+  //entry: ENTRY,
   devServer: devServer,
   module: {
-    rules: [TSLoaderRules]
+    rules: [tsLoaderRules]
   },
   plugins: [htmlWebpackPlugin]
 };
