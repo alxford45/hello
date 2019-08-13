@@ -26,3 +26,12 @@ Customize the webpack configuration by editing constants in config/config.ts.
 Add additional plugins or loaders by defining new constants in config/config.ts and importing them into config/webpack.config.ts.
 
 Add or remove required webpack parameters by editing config/config.types.ts.
+
+# Resources
+
+<ul>
+  <li><a href="https://www.typescriptlang.org">Typescript Docs</a></li> 
+  <li><a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference">MDN JS Docs</a></li>
+  <li><a href="https://reactjs.org/docs/hooks-intro.html">React Hooks</a></li>
+  <li><a href="https://javascript.info/">The Modern Js Intro</a></li>
+</ul>
