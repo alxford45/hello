@@ -1,15 +1,15 @@
 # description
 
-Implements Todoo List in vanilla js, typescript, es6 js, and React.
+<p>Implements Todoo List in vanilla js, typescript, es6 js, and React.</p>
 
 # npm scripts
 
-<ul>
-  <li> npm run vanilla</li>
-  <li> npm run es6</li>
-  <li> npm run ts</li>
-  <li> npm run react</li>
-</ul>
+<p>
+ npm run vanilla<br>
+ npm run es6<br>
+ npm run ts<br>
+ npm run react<br>
+</p>
 
 # usage
 
