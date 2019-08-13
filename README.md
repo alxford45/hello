@@ -4,13 +4,12 @@ Implements Todoo List in vanilla js, typescript, es6 js, and React.
 
 # npm scripts
 
-## npm run vanilla
-
-## npm run es6
-
-## npm run ts
-
-## npm run react
+<ul>
+  <li> npm run vanilla</li>
+  <li> npm run es6</li>
+  <li> npm run ts</li>
+  <li> npm run react</li>
+</ul>
 
 # usage
 
